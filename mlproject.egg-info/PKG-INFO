@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Nish
+Author-email: rparki.info@gmail.com
+Requires-Dist: panda
+Requires-Dist: numpy
+Requires-Dist: seaborn
